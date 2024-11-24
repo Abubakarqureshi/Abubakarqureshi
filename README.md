@@ -36,12 +36,6 @@ Feel free to reach out! I'm always open to new opportunities.
 
 ---
 
-### 🚀 My Open Source Contributions:  
-- [Project Name 1](#) - Brief description  
-- [Project Name 2](#) - Brief description  
-
----
-
 ### 🎯 My Goals:  
 - Build more open-source tools  
 - Contribute to impactful community projects  
